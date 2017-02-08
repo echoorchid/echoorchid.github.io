@@ -65,7 +65,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
-avatar: /uploads/profile.jpg
+avatar: /images/profile.jpg
 
 index_generator:
   per_page: 5
