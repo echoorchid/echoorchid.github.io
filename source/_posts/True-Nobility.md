@@ -3,6 +3,7 @@ title: True Nobility
 date: 2017-02-09 10:24:51
 categories: 心情小记
 tags:
+  -生活
 ---
 Ernest Hemigway said:
 >To regret one's errors to the point of not repeating them is true repentance.There is nothing noble in being superior to some other man. The true nobility is in being superior to your previous self.
