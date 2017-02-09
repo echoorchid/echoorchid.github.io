@@ -1,6 +1,7 @@
 ---
 title: Welcome from another PC
 date: 2017-02-08 18:41:14
+categories: TEST
 tags:
 ---
 ```
