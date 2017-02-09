@@ -4,6 +4,7 @@ date: 2017-01-19 21:39:46
 categories: TEST
 tags:
   -demo
+  -demo test
 ---
 
 ``` bash
