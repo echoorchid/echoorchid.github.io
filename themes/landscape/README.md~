@@ -93,7 +93,7 @@ All of them are enabled by default. You can edit them in `widget` setting.
 
 ## Development
 
-### Requirement
+### Requirements
 
 - [Grunt] 0.4+
 - Hexo 2.4+
