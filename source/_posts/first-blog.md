@@ -5,7 +5,7 @@ categories: TEST
 tags:
   -demo test
 ---
-
+修改推送到hexo分支<!-- more -->
 ``` bash
 hexo new "postName" #新建文章
 hexo new page "pageName" #新建页面
@@ -15,8 +15,6 @@ hexo deploy #部署到GitHub
 hexo help  # 查看帮助
 hexo version  #查看Hexo的版本
 ```
-
-修改推送到hexo分支<!-- more -->
 
 上一步的deploy参数正确配置后，文章写完使用 hexo g -d 命令就可以直接部署了，生成的博客静态文件会自动部署到 username.github.io 仓库的 master 分支上，这时候通过浏览器访问 http://username.github.io 就可以看到你的博客页面里。
 
