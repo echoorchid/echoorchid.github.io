@@ -42,7 +42,7 @@ menu:
   tags: /tags
   #sitemap: /sitemap.xml
   #commonweal: /404.html
-  #about: /about
+  about: /about
 
 
 # Enable/Disable menu icons.
@@ -54,7 +54,7 @@ menu_icons:
   enable: true
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
-  #about: user
+  about: user
   categories: th
   #schedule: calendar
   tags: tags
@@ -69,8 +69,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-#scheme: Mist
-scheme: Pisces
+scheme: Mist
+#scheme: Pisces
 
 
 # ---------------------------------------------------------------
