@@ -1,7 +1,7 @@
 ---
 title: 马尔科夫随机场解释
 date: 2017-02-15 16:21:25
-tags:
+tags: MRF
 categories: 基于学习的方法
 ---
 ```
