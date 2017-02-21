@@ -6,7 +6,7 @@ tags:
 ---
 
 删除远程分支.`git push origin --delete <branchName>`
-<!-- more -->
++<!-- more -->
 一、关于搭建的流程
 
 1. 创建仓库，http://echoorchid.github.io；

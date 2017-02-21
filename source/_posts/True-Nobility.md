@@ -6,8 +6,7 @@ tags:
   -生活
 ---
 this is a test from win7.
-真正的高贵是优于过去的自己！
-<!-- more -->
+真正的高贵是优于过去的自己！<!-- more -->
 Ernest Hemigway said:
 >To regret one's errors to the point of not repeating them is true repentance.There is nothing noble in being superior to some other man. The true nobility is in being superior to your previous self.
 ***

@@ -13,9 +13,9 @@ hexo generate #生成静态页面至public目录
 hexo server #开启预览访问端口（默认端口4000，'ctrl + c'关闭server）
 hexo deploy #部署到GitHub
 hexo help  # 查看帮助
-hexo version  #查看Hexo的版本
+hexo version  #查看Hexo的版本<!-- more -->
 ```
-<!-- more -->
+
 修改推送到hexo分支
 
 上一步的deploy参数正确配置后，文章写完使用 hexo g -d 命令就可以直接部署了，生成的博客静态文件会自动部署到 username.github.io 仓库的 master 分支上，这时候通过浏览器访问 http://username.github.io 就可以看到你的博客页面里。
