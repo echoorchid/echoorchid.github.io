@@ -6,14 +6,14 @@ tags:
 ---
 
 删除远程分支.`git push origin --delete <branchName>`
-
+<!-- more -->
 一、关于搭建的流程
 
 1. 创建仓库，http://echoorchid.github.io；
 2. 创建两个分支：master 与 hexo；
 3. 设置hexo为默认分支（因为我们只需要手动管理这个分支上的Hexo网站文件）；
 4. 使用git clone git@github.com:echoorchid/echoorchid.github.io.git拷贝仓库；
-<!-- more -->
+
 5. 在本地http://echoorchid.github.io文件夹下通过Git bash依次执行
 ```
 npm install hexo
