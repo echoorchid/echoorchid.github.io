@@ -2,21 +2,25 @@
 title: about
 date: 2017-02-21 16:36:51
 ---
-# 胡卫东
 This is just a demo.
-> 籍贯：河南省鹿邑县，性别：男，出生年月：1991年8月  
-> [18842621862@qq.com](email@example.com)  
-> (+86) 188-4262-1862
+TODO:完善简历
 
 ------
 
-### 简介 {#profile}
-
-扎实的Java基础，富有激情与创意。
+# 胡卫东
+> 籍贯：河南省鹿邑县	出生年月：1991年8月  
+> 性别：男          	联系地址：辽宁省大连市甘井子区大连理工大学创新园大厦（大黑楼）       
+> 手机：18842621862     电子邮箱：18842621862@qq.com
 
 ------
 
-### 技能 {#skills}
+### 简介 
+
+扎实的C/C++基础
+
+------
+
+### 技能 
 
 * Android开发
   : 三年Android开发经验。
@@ -26,21 +30,15 @@ This is just a demo.
 
 -------
 
-### 技术 {#technical}
+### 技术 
 
-1. Android
-1. Java
 1. C
-1. Node.js
-1. MongoDB
-1. Git
-1. Linux
-1. html5 CSS3
-1. JQuery
+2. C++
+3. 图像处理
 
 ------
 
-### 工作经验 {#experience}
+### 工作经验 
 
 BBB信息技术有限公司
 : *Android高级工程师*
@@ -54,7 +52,7 @@ AAA信息技术有限公司
 
 ------
 
-### 学历 {#degree}
+### 学历 
 
 学位
 : *学校专业*
@@ -63,7 +61,7 @@ AAA信息技术有限公司
   
 ------
 
-### Footer {#footer}
+### 我的Blog 
 
 Github: [https://github.com/echoorchid](https://github.com/echoorchid)  
 
