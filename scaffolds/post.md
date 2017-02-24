@@ -5,19 +5,19 @@ category:
 tags:
 ---
 ### 题目描述
-> write description here <!-- more -->
+> write description here： <!-- more -->
 
 #### 输入描述:
-> write description here
+> write description here：
 
 #### 输出描述:
-> write description here
+> write description here：
 
 #### 输入例子:
-> write description here
+> 
 
 #### 输出例子:
-> write description here
+> 
 
 ### 调试通过的代码
 
