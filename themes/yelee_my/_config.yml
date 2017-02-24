@@ -129,7 +129,7 @@ base_font_size: 16  #px, 16 - 24
 color_scheme: 
 
 highlight_style:
-  #on: true
+  on: true
   inline_code: 1  # Value: 0 - 9 可选
   code_block: 1  # Value: 0 - 4 
   # Set inline_code to style highlight text
@@ -159,7 +159,7 @@ copyright: true
 toc:
   on: true
   list_number: true # 目录序号
-  max_depth: 3  # 1 - 6 (h1-h6) 目录最大级数
+  max_depth: 5  # 1 - 6 (h1-h6) 目录最大级数
   nowrap: false # Keep title on same line | 目录标题不换行
 
 # 是否开启主页及加载头像时的动画效果
@@ -189,7 +189,7 @@ friends:
 #friends: false
 
 #是否开启“关于我”。
-aboutme: 图像超分辨重建
+aboutme: 这家伙很懒，什么也没写。--write by echoorchid.
 #aboutme: false
 
 # Open link in a new tab | 是否在新窗口打开链接
