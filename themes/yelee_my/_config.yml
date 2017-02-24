@@ -247,10 +247,10 @@ mathjax: false
 
 # Socail Share | 是否开启分享
 share: 
-  #on: true
-  baidu: true
-  addthis: false
-  addthis_pubid: "ra-56ff76c972fc0cf9"
+  on: true
+  baidu: false
+  addthis: true
+  addthis_pubid: "ra-58afecaa59be0e6d"
   ## Go to www.addthis.com/dashboard to get your pubid (in src of Code)
   ## and customize AddThis share buttons
 
@@ -281,7 +281,7 @@ visit_counter:
 
 # GitHub Repo Widget
 # https://github.com/hustcc/GitHub-Repo-Widget.js
-github_widget: false
+github_widget: true
 
 # Progress Bar | 页面加载进度条
 # Demo: http://github.hubspot.com/pace/docs/welcome/
