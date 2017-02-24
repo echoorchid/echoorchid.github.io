@@ -126,12 +126,12 @@ base_font_size: 16  #px, 16 - 24
 
 ## General Color Scheme | 主题配色方案 
 ## 可用值 Value: yilia
-color_scheme: 
+color_scheme: yilia
 
 highlight_style:
   on: true
-  inline_code: 1  # Value: 0 - 9 可选
-  code_block: 1  # Value: 0 - 4 
+  inline_code: 5  # Value: 0 - 9 可选
+  code_block: 4  # Value: 0 - 4 
   # Set inline_code to style highlight text
   # Chose a highlight theme for code block
   # 通过 inline_code 切换内置文本高亮样式
@@ -139,7 +139,7 @@ highlight_style:
 
 blockquote_style:
   #on: true
-  blockquote: 1  # Value: 0 - 7 可选
+  blockquote: 0  # Value: 0 - 7 可选
   # 自定义文章「引用部分」的样式
 
 # Headings Style | 标题风格
@@ -249,7 +249,7 @@ mathjax: true
 share: 
   on: false
   baidu: false
-  addthis: true
+  addthis: false
   addthis_pubid: ra-58afecaa59be0e6d
   ## Go to www.addthis.com/dashboard to get your pubid (in src of Code)
   ## and customize AddThis share buttons

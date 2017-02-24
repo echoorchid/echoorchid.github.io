@@ -33,7 +33,7 @@ if highlight_style
         highlight-aqua         = #66cccc
         highlight-blue         = #6699cc
         highlight-purple       = #cc99cc
- 
+
     // Tomorrow Night
     if code_block == "2"
         highlight-background   = rgba(32, 34, 37, .85)
