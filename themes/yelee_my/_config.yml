@@ -119,14 +119,14 @@ youyan:
 ## "5": show images form bg-1.jpg to bg-5.jpg in `/yelee/source/background/`
 ## "5": 显示`/yelee/source/background/`文件夹中 bg-1.jpg 到 bg-5.jpg 这5张图片
 ## "0": white-gray background | 淳朴灰白背景
-background_image: 5
+background_image: 3
 
 # Base Font Size | 字号调节
 base_font_size: 16  #px, 16 - 24
 
 ## General Color Scheme | 主题配色方案 
 ## 可用值 Value: yilia
-color_scheme: 
+color_scheme: yilia
 
 highlight_style:
   on: true
@@ -138,19 +138,19 @@ highlight_style:
   # 通过 code_block 切换内置代码高亮配色主题
 
 blockquote_style:
-  #on: true
+  on: true
   blockquote: 1  # Value: 0 - 7 可选
   # 自定义文章「引用部分」的样式
 
 # Headings Style | 标题风格
 ## 0-Yelee, 1-Yilia, 2-GitHub
-heading_style: 0 # Value: 0 - 2
+heading_style: 2 # Value: 0 - 2
 
 ## List style type (ul) | 无序列表项标记样式
 list_style: 0  # value: 0 - 12 可选
 
 # 左边栏宽度 px
-left_col_width: 300
+left_col_width: 200
 
 # Copyright info. of post | 文末版权信息
 copyright: true
@@ -168,7 +168,7 @@ animate: true
 
 # Load jQuery UI to style tooltips
 # 工具提示框样式美化
-jquery_ui: false
+jquery_ui: true
 
 # Max width of right cloumn | 限制右侧内容的宽带 
 limit_article_width: 
