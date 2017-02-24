@@ -119,27 +119,27 @@ youyan:
 ## "5": show images form bg-1.jpg to bg-5.jpg in `/yelee/source/background/`
 ## "5": 显示`/yelee/source/background/`文件夹中 bg-1.jpg 到 bg-5.jpg 这5张图片
 ## "0": white-gray background | 淳朴灰白背景
-background_image: 1
+background_image: 5
 
 # Base Font Size | 字号调节
 base_font_size: 16  #px, 16 - 24
 
 ## General Color Scheme | 主题配色方案 
 ## 可用值 Value: yilia
-color_scheme: yilia
+color_scheme: 
 
 highlight_style:
   on: true
   inline_code: 1  # Value: 0 - 9 可选
-  code_block: 4  # Value: 0 - 4 
+  code_block: 1  # Value: 0 - 4 
   # Set inline_code to style highlight text
   # Chose a highlight theme for code block
   # 通过 inline_code 切换内置文本高亮样式
   # 通过 code_block 切换内置代码高亮配色主题
 
 blockquote_style:
-  on: true
-  blockquote: 3  # Value: 0 - 7 可选
+  #on: true
+  blockquote: 1  # Value: 0 - 7 可选
   # 自定义文章「引用部分」的样式
 
 # Headings Style | 标题风格
@@ -150,7 +150,7 @@ heading_style: 0 # Value: 0 - 2
 list_style: 0  # value: 0 - 12 可选
 
 # 左边栏宽度 px
-left_col_width: 200
+left_col_width: 300
 
 # Copyright info. of post | 文末版权信息
 copyright: true
@@ -168,7 +168,7 @@ animate: true
 
 # Load jQuery UI to style tooltips
 # 工具提示框样式美化
-jquery_ui: true
+jquery_ui: false
 
 # Max width of right cloumn | 限制右侧内容的宽带 
 limit_article_width: 
@@ -199,12 +199,12 @@ open_in_new:
   global: 0 # 0-2
   title: true # article title in homepage 主页文章标题
   post: true # link within post/page 正文中的链接
-  tags: true # 标签
-  categories: true # 分类
+  tags: false # 标签
+  categories: false # 分类
   article_nav: false # 导航
   archives: true # 归档
   mini_archives: true # 迷你归档
-  menu: true # 边栏菜单
+  menu: false # 边栏菜单
   friends: true  # 友情链接
   socail: true # 社交图标
 
@@ -250,7 +250,7 @@ share:
   on: false
   baidu: false
   addthis: false
-  # addthis_pubid: ra-58afecaa59be0e6d
+  addthis_pubid: ra-58afecaa59be0e6d
   ## Go to www.addthis.com/dashboard to get your pubid (in src of Code)
   ## and customize AddThis share buttons
 
