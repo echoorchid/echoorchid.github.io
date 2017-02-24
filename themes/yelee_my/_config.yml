@@ -92,7 +92,7 @@ show_count: false
 ## Add comment count after article title
 
 disqus: 
-  on: true
+  #on: true
   shortname: https-echoorchid-github-io-1
   # https://help.disqus.com/customer/en/portal/articles/466208-what-s-a-shortname-
   # It is unnecessary to enable disqus here if 
@@ -106,7 +106,7 @@ duoshuo:
   # http://<要填的部分>.duoshuo.com (domain只填上<>里的内容，不要填整个网址)
 
 youyan:
-  #on: true
+  on: true
   id: 2126083
   # 是否开启友言评论，http://www.uyan.cc/index.php
   # id 中填写你的友言用户数字ID，注册后进入后台管理即可查看
@@ -250,7 +250,7 @@ share:
   on: false
   baidu: false
   addthis: false
-  addthis_pubid: ra-58afecaa59be0e6d
+  # addthis_pubid: ra-58afecaa59be0e6d
   ## Go to www.addthis.com/dashboard to get your pubid (in src of Code)
   ## and customize AddThis share buttons
 
